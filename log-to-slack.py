@@ -6,8 +6,8 @@ import csv
 import time
 
 
-
-slack = Slack(url='https://hooks.slack.com/services/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')
+#This is where you enter your slack API url.
+slack = Slack(url='')
 
 
 
